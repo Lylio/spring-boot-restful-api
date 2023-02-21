@@ -14,7 +14,7 @@ A simple API demo using Java and Spring Boot.
 ### Setup & Launch
 
 1. `mvn spring-boot:run`
-2. Navigate to http://localhost:8080/greeting or http://localhost:8080/greeting?name=Chalie
+2. Navigate to http://localhost:8080/greeting or http://localhost:8080/greeting?name=Charlie
 
 ### Tests
 
